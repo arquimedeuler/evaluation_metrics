@@ -22,3 +22,11 @@ Precision and Recall metrics are relatively much more appropriate (especially co
 $$\Huge \text{Precision} = \frac{TP}{TP+FP}$$
 
 $$\Huge \text{Recall} = \frac{TP}{TP+FN}$$
+
+## F1 Score
+
+Weighted average of the precision and recall.
+
+$$\Huge F1 \text{ score} = 2 \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$$
+
+F1 Score = Harmonic mean of Precision and Recall
