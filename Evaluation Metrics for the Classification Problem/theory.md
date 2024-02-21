@@ -5,7 +5,7 @@
 - True Positive (TP)
 - True Negative (TN)
 
-![Imagen](Images/d1.png)
+<img src = "Images/d1.png" alt = "d1" width = "600"/>
 
 ## Accuracy
 
@@ -13,13 +13,13 @@ $$\Huge \text{Accuracy} = \frac{\text{number of correct predictions}}{\text{numb
 
 - Useful when the number of samples is balanced
 
-![Imagen](Images/d4.png)
+<img src = "Images/d4.png" alt = "d4" width = "600"/>
 
 ## Confusion Matrix
 
 A table that helps to visualize the performance of a classification algorithm
 
-![Imagen](Images/d5.png)
+<img src = "Images/d5.png" alt = "d5" width = "600"/>
 
 ## Precision and Recall
 
@@ -27,11 +27,11 @@ Precision and Recall metrics are relatively much more appropriate (especially co
 
 $$\Huge \text{Precision} = \frac{TP}{TP+FP}$$
 
-![Imagen](Images/d2.png)
+<img src = "Images/d2.png" alt = "d2" width = "600"/>
 
 $$\Huge \text{Recall} = \frac{TP}{TP+FN}$$
 
-![Imagen](Images/d3.png)
+<img src = "Images/d3.png" alt = "d3" width = "600"/>
 
 ## F1 Score
 
