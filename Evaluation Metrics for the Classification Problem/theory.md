@@ -23,7 +23,11 @@ Precision and Recall metrics are relatively much more appropriate (especially co
 
 $$\Huge \text{Precision} = \frac{TP}{TP+FP}$$
 
+![Imagen](Images/d2.png)
+
 $$\Huge \text{Recall} = \frac{TP}{TP+FN}$$
+
+![Imagen](Images/d3.png)
 
 ## F1 Score
 
