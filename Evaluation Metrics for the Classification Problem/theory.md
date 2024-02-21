@@ -5,6 +5,8 @@
 - True Positive (TP)
 - True Negative (TN)
 
+![Imagen](Images/d1.png)
+
 ## Accuracy
 
 $$\Huge \text{Accuracy} = \frac{\text{number of correct predictions}}{\text{number of correct predictions}}$$
