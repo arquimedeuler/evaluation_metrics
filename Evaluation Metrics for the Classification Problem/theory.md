@@ -19,6 +19,8 @@ $$\Huge \text{Accuracy} = \frac{\text{number of correct predictions}}{\text{numb
 
 A table that helps to visualize the performance of a classification algorithm
 
+![Imagen](Images/d5.png)
+
 ## Precision and Recall
 
 Precision and Recall metrics are relatively much more appropriate (especially compared to accuracy) when dealing with imbalanced classes.
