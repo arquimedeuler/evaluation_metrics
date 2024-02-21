@@ -13,6 +13,8 @@ $$\Huge \text{Accuracy} = \frac{\text{number of correct predictions}}{\text{numb
 
 - Useful when the number of samples is balanced
 
+![Imagen](Images/d4.png)
+
 ## Confusion Matrix
 
 A table that helps to visualize the performance of a classification algorithm
